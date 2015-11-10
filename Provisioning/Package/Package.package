@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="011e2b59-19bb-47c5-81da-58a00e7fa806" 
+        solutionId="011e2b59-19bb-47c5-81da-58a00e7fa806" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Provisioning"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="5de684b4-9d87-4be4-a2aa-4d30618376ff" />
+  </features>
+</package>
